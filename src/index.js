@@ -1,6 +1,7 @@
 import React from 'react';
 import { render } from 'react-dom';
 import App from './components/App/App';
+import AppContainer from './containers/App-container';
 import thunk  from 'redux-thunk'
 import './index.css';
 
